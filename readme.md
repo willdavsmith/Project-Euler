@@ -1,3 +1,3 @@
 Project Euler
 
-Trying the project euler challenges in Java.
+Trying the project euler challenges in Python.
